@@ -24,4 +24,4 @@ This project mimics a modern modern data stack workflow:
 * `extract_github_data.py`: The Python script used to interact with the GitHub API.
 * `transform_metrics.sql`: The BigQuery SQL script used to clean timestamps and engineer SLA logic.
 * `Engineering_Ops_Dashboard.pbix`: The final Power BI dashboard file.
-* `dashboard`: Contains screenshots of the final dashboard for quick viewing.
+* `dashboard`: Screenshot of the final dashboard for quick viewing.
